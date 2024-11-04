@@ -27,6 +27,7 @@ section p {
   font-size: 18px;
   width: 65%;
   margin: 0 auto;
+  pointer-events: none;
 }
 
 .light {
